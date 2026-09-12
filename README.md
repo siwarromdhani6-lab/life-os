@@ -4,6 +4,12 @@ A single-page personal life planner with a terminal/hacker aesthetic — built a
 
 ![theme](https://img.shields.io/badge/style-Arch%20terminal-e5323c?style=flat-square) ![storage](https://img.shields.io/badge/storage-localStorage-c9a15a?style=flat-square)
 
+## Screenshots
+
+| Today | Week Ahead | Progress |
+|-------|-----------|----------|
+| ![Today view](today.png) | ![Week view](week.png) | ![Progress view](progress.png) |
+
 ## What it does
 
 - **Neofetch-style dashboard** — an ASCII/terminal-inspired hero panel summarizing your day
